@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Jumpin__Pumpkin.Content_Manager" Collapsed="true">
+    <Position X="5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEKBggCgaAAAKAAgAhBEAAEgIAEAAggFBJgAAAFAEAA=</HashCode>
+      <FileName>Content_Manager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Jumpin__Pumpkin.Game1" Collapsed="true">
+    <Position X="14.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAFAAAAAAAEwAAABAQAAAAAAECAAgEACACAAAAABQ=</HashCode>
+      <FileName>Game_1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Jumpin__Pumpkin.Keyboard_input" Collapsed="true">
+    <Position X="16.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAUAAAAAAAAAAAAIEAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Keyboard_input.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Jumpin__Pumpkin.Program" Collapsed="true">
+    <Position X="14.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Jumpin__Pumpkin.Game_over_screen" Collapsed="true">
+    <Position X="0.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEQAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Screen\Game_over_screen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Jumpin__Pumpkin.Play_screen" Collapsed="true">
+    <Position X="2.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEQAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Screen\Play_screen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Jumpin__Pumpkin.Start_screen" Collapsed="true">
+    <Position X="5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEQAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Screen\Start_screen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Jumpin__Pumpkin.Tutorial_screen" Collapsed="true">
+    <Position X="7.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEQAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Screen\Tutorial_screen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Jumpin__Pumpkin.Win_screen" Collapsed="true">
+    <Position X="9.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEQAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Screen\Win_screen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Jumpin__Pumpkin.Entity" Collapsed="true">
+    <Position X="5.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIQAAAAQAIKAAgAAAAEIAAAAAAgIAQBAABKAAAAAAAg=</HashCode>
+      <FileName>Sprite\Entity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Jumpin__Pumpkin.Player" Collapsed="true">
+    <Position X="5.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAQBAAIAAIJAAgAICAAIAAAAACAAAARgAAAAAAAEAAA=</HashCode>
+      <FileName>Sprite\Player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Jumpin__Pumpkin.Sprite.Game_Object" Collapsed="true">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAABAAAAAAAgCAAAIAAAACAEAAAAAAAAAADJAAAAA=</HashCode>
+      <FileName>Sprite\Game_Object.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Jumpin__Pumpkin.Sprite.Monster" Collapsed="true">
+    <Position X="9.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAIAAAAAAAAAAAAQAAAACAAAAAAQBAAAAAAA=</HashCode>
+      <FileName>Sprite\Monster.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Jumpin__Pumpkin.Tile.Bonus_candy" Collapsed="true">
+    <Position X="3" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Tile\Bonus_candy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Jumpin__Pumpkin.Tile.Candy" Collapsed="true">
+    <Position X="1.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAACAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Tile\Candy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Jumpin__Pumpkin.Tile.Power_up" Collapsed="true">
+    <Position X="0.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Tile\Power_up.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Jumpin__Pumpkin.Tile.Teleport" Collapsed="true">
+    <Position X="7.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>Tile\Teleport.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Jumpin__Pumpkin.Tile.Wall" Collapsed="true">
+    <Position X="12" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Tile\Wall.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Jumpin__Pumpkin.Screen" Collapsed="true">
+    <Position X="14.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAIAAAAAIAAAQAAAEAAAAgA=</HashCode>
+      <FileName>Game_1.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

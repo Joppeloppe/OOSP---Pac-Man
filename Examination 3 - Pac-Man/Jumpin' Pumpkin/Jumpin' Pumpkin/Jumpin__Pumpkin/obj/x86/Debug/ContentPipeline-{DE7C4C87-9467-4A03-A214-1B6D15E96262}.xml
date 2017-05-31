@@ -1,0 +1,191 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Image\zombie_walk.png</Source>
+      <Name>Image\zombie_walk</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joakim Levin\Dropbox\Examination 3 - Pac-Man\Jumpin' Pumpkin\Jumpin' Pumpkin\Jumpin__Pumpkin\bin\x86\Debug\Content\Image\zombie_walk.xnb</Output>
+      <Time>2014-10-21T07:47:06+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Image\start_bg.png</Source>
+      <Name>Image\start_bg</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joakim Levin\Dropbox\Examination 3 - Pac-Man\Jumpin' Pumpkin\Jumpin' Pumpkin\Jumpin__Pumpkin\bin\x86\Debug\Content\Image\start_bg.xnb</Output>
+      <Time>2014-10-28T20:21:11+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Image\jumpin_pumpkin.png</Source>
+      <Name>Image\jumpin_pumpkin</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joakim Levin\Dropbox\Examination 3 - Pac-Man\Jumpin' Pumpkin\Jumpin' Pumpkin\Jumpin__Pumpkin\bin\x86\Debug\Content\Image\jumpin_pumpkin.xnb</Output>
+      <Time>2014-10-27T09:33:50+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Image\wall.png</Source>
+      <Name>Image\wall</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joakim Levin\Dropbox\Examination 3 - Pac-Man\Jumpin' Pumpkin\Jumpin' Pumpkin\Jumpin__Pumpkin\bin\x86\Debug\Content\Image\wall.xnb</Output>
+      <Time>2014-10-23T07:57:19+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Image\candy_sheet.png</Source>
+      <Name>Image\candy_sheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joakim Levin\Dropbox\Examination 3 - Pac-Man\Jumpin' Pumpkin\Jumpin' Pumpkin\Jumpin__Pumpkin\bin\x86\Debug\Content\Image\candy_sheet.xnb</Output>
+      <Time>2014-10-24T09:34:30+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\bg_music.wav</Source>
+      <Name>Sound\bg_music</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joakim Levin\Dropbox\Examination 3 - Pac-Man\Jumpin' Pumpkin\Jumpin' Pumpkin\Jumpin__Pumpkin\bin\x86\Debug\Content\Sound\bg_music.xnb</Output>
+      <Time>2014-10-21T18:50:10+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\eat_candy.wav</Source>
+      <Name>Sound\eat_candy</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joakim Levin\Dropbox\Examination 3 - Pac-Man\Jumpin' Pumpkin\Jumpin' Pumpkin\Jumpin__Pumpkin\bin\x86\Debug\Content\Sound\eat_candy.xnb</Output>
+      <Time>2014-10-23T07:57:33+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Font\font.spritefont</Source>
+      <Name>Font\font</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joakim Levin\Dropbox\Examination 3 - Pac-Man\Jumpin' Pumpkin\Jumpin' Pumpkin\Jumpin__Pumpkin\bin\x86\Debug\Content\Font\font.xnb</Output>
+      <Time>2014-10-23T09:40:11+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Image\Bounding_box.png</Source>
+      <Name>Image\Bounding_box</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joakim Levin\Dropbox\Examination 3 - Pac-Man\Jumpin' Pumpkin\Jumpin' Pumpkin\Jumpin__Pumpkin\bin\x86\Debug\Content\Image\Bounding_box.xnb</Output>
+      <Time>2014-10-28T13:33:44+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Image\jumpin_pumpkin_back.png</Source>
+      <Name>Image\jumpin_pumpkin_back</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joakim Levin\Dropbox\Examination 3 - Pac-Man\Jumpin' Pumpkin\Jumpin' Pumpkin\Jumpin__Pumpkin\bin\x86\Debug\Content\Image\jumpin_pumpkin_back.xnb</Output>
+      <Time>2014-10-30T10:19:06+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Image\jumpin_pumpkin_side.png</Source>
+      <Name>Image\jumpin_pumpkin_side</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joakim Levin\Dropbox\Examination 3 - Pac-Man\Jumpin' Pumpkin\Jumpin' Pumpkin\Jumpin__Pumpkin\bin\x86\Debug\Content\Image\jumpin_pumpkin_side.xnb</Output>
+      <Time>2014-10-30T10:19:06+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Image\end_screen.png</Source>
+      <Name>Image\end_screen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joakim Levin\Dropbox\Examination 3 - Pac-Man\Jumpin' Pumpkin\Jumpin' Pumpkin\Jumpin__Pumpkin\bin\x86\Debug\Content\Image\end_screen.xnb</Output>
+      <Time>2014-10-31T13:08:49+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Image\bonus_candy.png</Source>
+      <Name>Image\bonus_candy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joakim Levin\Dropbox\Examination 3 - Pac-Man\Jumpin' Pumpkin\Jumpin' Pumpkin\Jumpin__Pumpkin\bin\x86\Debug\Content\Image\bonus_candy.xnb</Output>
+      <Time>2014-11-01T12:37:37+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Image\power_up_flame.png</Source>
+      <Name>Image\power_up_flame</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joakim Levin\Dropbox\Examination 3 - Pac-Man\Jumpin' Pumpkin\Jumpin' Pumpkin\Jumpin__Pumpkin\bin\x86\Debug\Content\Image\power_up_flame.xnb</Output>
+      <Time>2014-11-01T14:07:16+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Image\win_bg.png</Source>
+      <Name>Image\win_bg</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joakim Levin\Dropbox\Examination 3 - Pac-Man\Jumpin' Pumpkin\Jumpin' Pumpkin\Jumpin__Pumpkin\bin\x86\Debug\Content\Image\win_bg.xnb</Output>
+      <Time>2014-11-02T10:30:23+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Image\teleport.png</Source>
+      <Name>Image\teleport</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joakim Levin\Dropbox\Examination 3 - Pac-Man\Jumpin' Pumpkin\Jumpin' Pumpkin\Jumpin__Pumpkin\bin\x86\Debug\Content\Image\teleport.xnb</Output>
+      <Time>2014-11-03T12:26:54+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{DE7C4C87-9467-4A03-A214-1B6D15E96262}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Joakim Levin\Dropbox\Examination 3 - Pac-Man\Jumpin' Pumpkin\Jumpin' Pumpkin\Jumpin__PumpkinContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Joakim Levin\Dropbox\Examination 3 - Pac-Man\Jumpin' Pumpkin\Jumpin' Pumpkin\Jumpin__Pumpkin\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Joakim Levin\Dropbox\Examination 3 - Pac-Man\Jumpin' Pumpkin\Jumpin' Pumpkin\Jumpin__Pumpkin\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Joakim Levin\Dropbox\Examination 3 - Pac-Man\Jumpin' Pumpkin\Jumpin' Pumpkin\Jumpin__Pumpkin\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-10-24T23:15:39.9897017+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
